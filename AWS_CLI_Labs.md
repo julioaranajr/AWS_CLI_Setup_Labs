@@ -18,7 +18,7 @@ profile = cloudreach-ta-lab
 role = LabUserAdmin
 output = json
 ```
-[image.txt]https://github.com/julioaranajr/02_AwsCli_Setup_Labs/blob/main/AWS_CLI_Labs.md
+![Image text]https://github.com/julioaranajr/02_AwsCli_Setup_Labs/blob/main/AWS_CLI_Labs.md
 
 ```
 [cloudreach-ta-lab]

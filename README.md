@@ -64,7 +64,7 @@ Add the lines:
 ```
 [cloudreach-ta-lab]
 region = eu-west-1
-user = pascal.edouard@cloudreach.com
+user = your.username.named@domain.name
 account = 123456789
 profile = cloudreach-ta-lab
 role = LabUserAdmin

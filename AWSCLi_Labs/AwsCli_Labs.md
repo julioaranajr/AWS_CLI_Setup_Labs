@@ -18,7 +18,7 @@ profile = cloudreach-ta-lab
 role = LabUserAdmin
 output = json
 ```
-![Screenshot](https://github.com/julioaranajr/02_AwsCli_Setup_Labs/blob/main/AWS_CLI_Labs1.png)
+![Screenshot](https://github.com/julioaranajr/02_AwsCli_Setup_Labs/blob/main/AWSCLi_Labs/Screenshot%202022-09-30-aws-labs.png)
 
 ```
 [cloudreach-ta-lab]
@@ -28,4 +28,4 @@ aws_secret_access_key = <SECRET_ACCESS_KEY>
 ```
 aws iam list-users
 ```
-![Screenshot](https://github.com/julioaranajr/02_AwsCli_Setup_Labs/blob/main/AWS_IAM_USER.png)
+![Screenshot](https://github.com/julioaranajr/02_AwsCli_Setup_Labs/blob/main/AWSCLi_Labs/Screenshot%202022-09-30-iam-users.png)

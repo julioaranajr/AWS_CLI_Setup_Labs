@@ -5,23 +5,23 @@ aws --version
 ```
 
 ```
-export AWS_PROFILE="cloudreach-ta-lab"
+export AWS_PROFILE="talent-academy"
 export AWS_DEFAULT_REGION="eu-west-1"
 ```
 
 ```
-[cloudreach-ta-lab]
+[talent-academy]
 region = eu-west-1
 user = my.user.name@domain.name
 account = 123456789
-profile = cloudreach-ta-lab
+profile = talent-academy
 role = LabUserAdmin
 output = json
 ```
 ![Screenshot](https://github.com/julioaranajr/02_AwsCli_Setup_Labs/blob/main/AWSCLi_Labs/Screenshot%202022-09-30-aws-labs.png)
 
 ```
-[cloudreach-ta-lab]
+[talent-academy]
 aws_access_key_id = <ACCESS_KEY>
 aws_secret_access_key = <SECRET_ACCESS_KEY>
 ```

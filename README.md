@@ -62,11 +62,11 @@ vi ~/.aws/config
 
 Add the lines:
 ```
-[cloudreach-ta-lab]
+[Talent-Academy]
 region = eu-west-1
 user = your.username.named@domain.name
 account = 123456789
-profile = cloudreach-ta-lab
+profile = talent-academy
 role = LabUserAdmin
 output = json
 ```
@@ -78,7 +78,7 @@ vi ~/.aws/credentials
 ```
 
 ```
-[cloudreach-ta-lab]
+[talent-academy]
 aws_access_key_id = <ACCESS_KEY>
 aws_secret_access_key = <SECRET_ACCESS_KEY>
 ```
@@ -88,7 +88,7 @@ aws_secret_access_key = <SECRET_ACCESS_KEY>
 The aws cli requires you to specify which configuration profile you wish to use everytime you execute the command. Instead of typing the profile name each time, you can expose it in the `Environment Variable` of your current terminal session by typing this command:
 
 ```
-export AWS_PROFILE="cloudreach-ta-lab"
+export AWS_PROFILE="talent-academy"
 export AWS_DEFAULT_REGION="eu-west-1"
 ```
 

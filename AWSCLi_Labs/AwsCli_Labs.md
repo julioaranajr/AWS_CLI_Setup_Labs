@@ -12,7 +12,6 @@ export AWS_DEFAULT_REGION="eu-west-1"
 ```
 [talent-academy]
 region = eu-west-1
-user = my.user.name@domain.name
 account = 123456789
 profile = talent-academy
 role = LabUserAdmin

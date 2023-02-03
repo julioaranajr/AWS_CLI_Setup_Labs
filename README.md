@@ -81,7 +81,7 @@ Never store your access key in plain text, in a code repository, or in code.
 Disable or delete access key when no longer needed.
 Enable least-privilege permissions.
 Rotate access keys regularly.
-For more details about managing access keys, see the [Best practices for managing AWS access keys] (https://docs.aws.amazon.com/console/general/access-keys-best-practices)
+For more details about managing access keys, see the [Best practices for managing AWS access keys](https://docs.aws.amazon.com/console/general/access-keys-best-practices)
 
 ### AWS config & credentials
 

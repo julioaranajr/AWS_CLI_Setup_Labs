@@ -1,8 +1,7 @@
-# AwsCli Setup Labs
-Repository to Setup AWS CLI and Exsercies
+# Aws Cli Setup Labs
+Repository to Setup AWS CLI
 
 # AWS Lab
-
 
 Go to [Cloudreach AWS Vending Machine](https://aws.vending-machine.cloudreach.io/home/welcome) to request a Personal Development Lab.
 This should take a few minutes for the request to be process and receive an email with your access details.

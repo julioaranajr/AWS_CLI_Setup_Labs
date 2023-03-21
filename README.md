@@ -1,4 +1,4 @@
-# 02_AwsCli_Setup_Labs
+# AwsCli Setup Labs
 Repository to Setup AWS CLI and Exsercies
 
 # AWS Lab

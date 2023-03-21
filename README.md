@@ -74,10 +74,12 @@ You use IAM to control who is authenticated (signed in) and authorized (has perm
 * Select the box with `I understand the above recommendation and want to proceed to create an access key.`
 * No Tag is necesary then click on `Create access key`
 
-> You should now have the `access_key` and `secret_access_key` displayed.
-> This is the only time that the secret access key can be viewed or downloaded. 
-> You cannot recover it later. However, you can create a new access key any time.
-
+```
+You should now have the `access_key` and `secret_access_key` displayed.
+This is the only time that the secret access key can be viewed or downloaded. 
+You cannot recover it later. However, you can create a new access key any time.
+```
+  
 Access key best practices
 * Never store your access key in plain text, in a code repository, or in code.
 * Disable or delete access key when no longer needed.
